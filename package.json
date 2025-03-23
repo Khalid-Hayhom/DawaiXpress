@@ -6,6 +6,7 @@
     "autoprefixer": "^10.4.21",
     "lovable-tagger": "^1.1.7",
     "lucide-react": "^0.483.0",
+    "mapbox-gl": "^3.10.0",
     "path": "^0.12.7",
     "postcss": "^8.5.3",
     "react": "^19.0.0",
